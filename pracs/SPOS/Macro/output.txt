@@ -1,0 +1,11 @@
+
+START 200
+  ABC &PQR
+  DECR &A
+  A 1
+MOVEM AREG,&B
+  XYZ &ABC &Z
+  INCR BREG
+  INCR &X
+  ADD BREG &Y
+END

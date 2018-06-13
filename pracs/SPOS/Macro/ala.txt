@@ -1,0 +1,6 @@
+
+ ALA 1
+0 &ABC
+1 &Z
+ ALA 2
+0 &PQR

@@ -1,0 +1,15 @@
+id,age,income,gender,marital status,buys
+1,<21,h,m,s,n
+2,<21,h,m,m,n
+3,21-35,h,m,s,y
+4,>35,m,m,s,y
+5,>35,l,f,s,y
+6,>35,l,f,m,n
+7,21-35,l,f,m,y
+8,<21,m,m,s,n
+9,<21,l,f,m,y
+10,>35,m,f,s,y
+11,<21,m,f,m,y
+12,21-35,m,m,m,y
+13,21-35,h,f,s,y
+14,>35,m,m,m,n
